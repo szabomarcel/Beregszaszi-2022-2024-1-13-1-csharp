@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88DFAC8C-4460-497C-907C-5DF9B8CFAA36}</ProjectGuid>
+    <ProjectGuid>{0B0D9E85-27A6-4C92-8AEE-C4A40A2C2DA0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>osztaly</RootNamespace>
-    <AssemblyName>osztaly</AssemblyName>
+    <RootNamespace>poliform</RootNamespace>
+    <AssemblyName>poliform</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

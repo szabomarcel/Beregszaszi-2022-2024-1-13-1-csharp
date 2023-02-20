@@ -1,0 +1,8 @@
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\bin\Debug\osztaly.exe.config
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\bin\Debug\osztaly.exe
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\bin\Debug\osztaly.pdb
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\obj\Debug\osztaly.csproj.AssemblyReference.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\obj\Debug\osztaly.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\obj\Debug\osztaly.csproj.CoreCompileInputs.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\obj\Debug\osztaly.exe
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\osztaly\obj\Debug\osztaly.pdb

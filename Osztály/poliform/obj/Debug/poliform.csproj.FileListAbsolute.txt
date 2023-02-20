@@ -1,0 +1,8 @@
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\obj\Debug\poliform.csproj.AssemblyReference.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\obj\Debug\poliform.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\obj\Debug\poliform.csproj.CoreCompileInputs.cache
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\bin\Debug\poliform.exe.config
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\bin\Debug\poliform.exe
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\bin\Debug\poliform.pdb
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\obj\Debug\poliform.exe
+C:\Users\szabo.marcell\source\repos\csharp1\beregszaszi2022-2024-1-13.1csharp\Osztály\poliform\obj\Debug\poliform.pdb
